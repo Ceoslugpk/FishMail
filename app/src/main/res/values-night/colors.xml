@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#25b6ed</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="teal">#009688</color>
+    <color name="textcolor">#FAFAFA</color>
+    <color name="lightblue">#25b6ed</color>
+    <color name="blue">#2196F3</color>
+    <color name="mailcarbg">#121212</color>
+    <color name="line">#424242</color>
+</resources>
